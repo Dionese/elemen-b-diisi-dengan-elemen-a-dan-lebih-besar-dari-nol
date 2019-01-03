@@ -1,0 +1,1 @@
+# elemen-b-diisi-dengan-elemen-a-dan-lebih-besar-dari-nol
